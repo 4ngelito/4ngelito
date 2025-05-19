@@ -74,13 +74,12 @@
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: space-between; align-items: center;  margin: 0 auto;">
-  <img src="https://github-readme-stats.vercel.app/api?username=4ngelito&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 48%; height: 200px; object-fit: contain;" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=4ngelito&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="width: 48%; height: 200px; object-fit: contain;" />
-</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=4ngelito&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ngelito&theme=dark&hide_border=false&layout=compact" alt="Top Languages" style="height: 150px; object-fit: contain;" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=4ngelito&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ngelito&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 </div>
 
 
