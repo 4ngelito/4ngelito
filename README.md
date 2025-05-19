@@ -1,8 +1,10 @@
+
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hello%2C+World!+%F0%9F%8C%8D;I'm+Angelito+Padolina+Jr;Welcome+to+my+Profile!" alt="Typing SVG" />
 </div>
 
----
+
 
 <div align="center">
   <h3>👨‍💻 Hi there, I'm <strong>Angelito Padolina Jr.</strong> 
@@ -20,17 +22,27 @@
 </p>
 
 
----
 
-## 💫 About Me
 
-- 🌱 Currently learning: Full-stack development
-- 👨‍🎓 3rd Year BSIT student at NEUST
-- 💻 Passionate about building secure and dynamic web applications
-- 📚 I enjoy exploring tech stacks and transforming ideas into reality
+<table>
+  <tr>
+    <td>
+
+<h2>💫 About Me</h2>
+
+- 🌱 Currently learning: Full-stack development  
+- 👨‍🎓 3rd Year BSIT student at NEUST  
+- 💻 Passionate about building secure and dynamic web applications  
+- 📚 I enjoy exploring tech stacks and transforming ideas into reality  
 - 📫 Reach me at: **angelitopadolina.neust@gmail.com**
 
----
+</td>
+<td>
+  <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="500" />
+</td>
+  </tr>
+</table>
+
 
 ## 💻 Tech Stack
 
@@ -58,7 +70,7 @@
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 </div>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -70,9 +82,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ngelito&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 </div>
 
----
 
 
----
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
