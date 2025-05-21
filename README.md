@@ -86,7 +86,7 @@
 
 <!-- ending-->
 <br><br>
-<img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="Fallout GIF" style="width:auto; height:auto; "/>
+<img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" alt="Fallout GIF" style="width:auto; height:auto; "/>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
