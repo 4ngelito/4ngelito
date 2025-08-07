@@ -30,7 +30,7 @@
 
 <h2>💫 About Me</h2>
 
-- 🌱 Currently learning: Full-stack development  
+-   
 - 👨‍🎓 3rd Year BSIT student at NEUST  
 - 💻 Passionate about building secure and dynamic web applications  
 - 📚 I enjoy exploring tech stacks and transforming ideas into reality  
