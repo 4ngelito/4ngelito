@@ -8,14 +8,10 @@
 
 <div align="center">
   <h3>👨‍💻 Hi there, I'm <strong>Angelito Padolina Jr.</strong> 
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="25" height="25" />
   </h3>
 </div>
 
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=555555&center=true&multiline=true&width=600&height=80&lines=Aspiring+Software+Developer+%F0%9F%92%BB;Passionate+about+tech+and+building+real-world+solutions.;Turning+ideas+into+code+and+code+into+impact." alt="Typing SVG" />
-</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=angelitopadolina&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
