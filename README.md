@@ -30,10 +30,10 @@
 
 <h2>💫 About Me</h2>
 
--   
+  
 - 👨‍🎓 3rd Year BSIT student at NEUST  
-- 💻 Passionate about building secure and dynamic web applications  
-- 📚 I enjoy exploring tech stacks and transforming ideas into reality  
+- 💻 I like coding and building projects.
+- 📚 Always learning and improving.
 - 📫 Reach me at: **angelitopadolina.neust@gmail.com**
 
 </td>
