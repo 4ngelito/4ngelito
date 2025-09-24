@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <h3>👨‍💻 Hi there, I'm <strong>Angelito B. Padolina Jr.</strong> 
+  <h3>👨‍💻 Hi there, I'm <strong>Angelito Padolina Jr.</strong> 
   </h3>
 </div>
 
