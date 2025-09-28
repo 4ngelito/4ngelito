@@ -26,12 +26,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4ngelito&" alt="4ngelito" /></p>
 
 
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
+
