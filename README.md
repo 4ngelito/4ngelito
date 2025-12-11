@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Angelito B. Padolina Jr</h1>
+<h1 align="center">Hi 👋, I'm Angelito B. Padolina</h1>
 <h3 align="center">A passionate 4th Year BSIT Student from Philippines</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=4ngelito&label=Profile%20views&color=0e75b6&style=flat" alt="4ngelito" /> </p>
